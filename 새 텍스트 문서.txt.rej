@@ -1,0 +1,12 @@
+diff a/새 텍스트 문서.txt b/새 텍스트 문서.txt	(rejected hunks)
+@@ -1 +0,8 @@
+-������
+\ No newline at end of file
++<<<<<<< HEAD
++������
++=======
++ddddd
++
++
++�α���
++>>>>>>> fcff0c9730164f8c0327a3c284ac9e1266c8cbc5
